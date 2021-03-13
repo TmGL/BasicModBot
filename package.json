@@ -1,0 +1,15 @@
+{
+  "name": "basic-mod-bot",
+  "version": "1.0.9",
+  "description": "A basic moderation bot for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DiamondCompass",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.15"
+  }
+}
